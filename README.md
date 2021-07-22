@@ -1,7 +1,7 @@
 |[Discord](https://discord.gg/BKV3DJm)|[BLRS Wiki](https://wiki.purduesigbots.com/hardware/vex-cad/solidworks)|[Latest Release](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest)|[FAQ](https://github.com/VEX-CAD/VEX-CAD-Solidworks/wiki)
 |---|---|---|---|
 
-# Inventor Library
+# Solidworks Library
 ## [Latest Release: 1.0.0](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest)
 
 This library includes every length of metal, commonly used cut metal, construction circles for ease of constraining, and parametric hardware.
