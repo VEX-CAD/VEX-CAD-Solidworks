@@ -4,7 +4,7 @@
 # Solidworks Library
 ## [Latest Release: 1.0.0](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest)
 
-This library includes every length of metal, commonly used cut metal, construction circles for ease of constraining, and parametric hardware.
+This library includes every length of metal for ease of use when CADing.
 
 ### [Parts Library Download](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest)
 The recommended file structure is to have a CAD folder anywhere on your computer, and place the [latest release](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest) in this folder. Every new robot you create will be a new folder in the CAD folder.
@@ -15,5 +15,5 @@ Please read the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Solidworks/wiki) if you
 ## [VEX CAD Discord](https://discord.gg/BKV3DJm)
 If you need more help, or would like assistance from experienced users, please ask in our [discord server](https://discord.gg/BKV3DJm)!
 
-## Inventor Library Contributors
+## Solidworks Library Contributors
  - Owen - 169E
