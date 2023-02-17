@@ -31,5 +31,6 @@ V1.1
 
 NOTE: Library is no longer backwards compatible for versions before 2021-2022
 
+----------------------------------------------------------------------------------------
 V1.0
  Initial Version
