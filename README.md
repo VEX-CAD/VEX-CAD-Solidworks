@@ -9,8 +9,8 @@ This library includes all VEX parts (as of 2/17/2023) for ease of use when CADin
 ### [Parts Library Download](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest)
 The recommended file structure is to have a CAD folder anywhere on your computer, and place the [latest release](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest) in this folder. Every new robot you create will be a new folder in the CAD folder.
 
-## [Change Log](https://github.com/VEX-CAD/VEX-CAD-Solidworks/blob/main/Changelog.txt)
-To see everything changed between versions, check the [changelog](https://github.com/VEX-CAD/VEX-CAD-Solidworks/blob/main/Changelog.txt)!
+## [Change Log](https://github.com/VEX-CAD/VEX-CAD-Solidworks/blob/master/Changelog.txt)
+To see everything changed between versions, check the [changelog](https://github.com/VEX-CAD/VEX-CAD-Solidworks/master/main/Changelog.txt)!
 
 ## [FAQ](https://github.com/VEX-CAD/VEX-CAD-Solidworks/wiki)
 Please read the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Solidworks/wiki) if you're having installation issues. 
