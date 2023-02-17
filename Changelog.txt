@@ -1,0 +1,36 @@
+VEX CAD Library V1.1
+
+Check the FAQ here!
+https://github.com/VEX-CAD/VEX-CAD-Solidworks/wiki
+
+If you want to join the community, or have any questions, join our Discord!
+https://discord.gg/BKV3DJm
+
+Thank you to the following contributors:
+ -Owen - 169E
+ -Ryan - 4253B
+
+V1.1
+ Library parts is now up to date as of 2/17/2023
+ - Added new sensors (3 wire expander etc)
+ - Added Anti-Static Wheels
+ - Added new hardwares (nut retainers etc)
+ - Added new motion parts (V2 gears, 6P sprockets etc)
+ - Added new structure parts (gussets etc)
+
+ Part Updates
+ - Pneumatic cylinders and switches are now a configurable assembly
+ - All square metal holes now have a circular cut in them to make concentric mates usable
+ - Metals are now compressed to one file and configurable in length
+ - Hinge parts are now internal to the assembly
+
+ Texture Updates
+ - Green -> Red for most plastic parts
+ - Gave electronics low gloss plastic textures
+ - Aluminum is now matte Aluminum
+
+NOTE: Library is no longer backwards compatible for versions before 2021-2022
+
+----------------------------------------------------------------------------------------
+V1.0
+ Initial Version
