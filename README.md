@@ -2,7 +2,7 @@
 |---|---|---|---|
 
 # Solidworks Library
-## [Latest Release: 1.1.0](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest)
+## [Latest Release: 1.1](https://github.com/VEX-CAD/VEX-CAD-Solidworks/releases/latest)
 
 This library includes all VEX parts (as of 2/17/2023) for ease of use when CADing.
 
