@@ -21,5 +21,7 @@ If you need more help, or would like assistance from experienced users, please a
 ## Solidworks Library Contributors
  - Owen - 169E
  - Ryan - 4253B
+ - Mactar - 987X
+ - Daniel - 74177M
 
 NOTE: This library is not backwards compatible for versions before Solidworks 2021-2022
